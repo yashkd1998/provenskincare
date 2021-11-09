@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.header-ad{
+    text-align:center;
+    margin-top:0rem;
+    padding:0.8rem;
+    background-color:#000000;
+    color:white;
+    font-size:13px;
+    &__highlight{
+        color: #ffbc6c;
+    } 
+    &__underline{
+        text-decoration:underline
+    }
+}
